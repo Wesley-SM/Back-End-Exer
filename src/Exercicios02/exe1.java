@@ -1,7 +1,7 @@
 
 import java.util.Random;
 
-public class exer1{
+public class exe1 {
     public static void main(String[] args) {
 
         String caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";

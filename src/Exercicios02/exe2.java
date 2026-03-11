@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class exer2 {
+public class exe2 {
     public static void main(String[] args) {
         Random random = new Random();
 
