@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+*.class
+bin/
+.settings/
+.classpath
+.project
+.vscode/
+.idea/
+*.jar

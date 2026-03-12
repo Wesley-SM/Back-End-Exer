@@ -1,7 +1,7 @@
 package Exercicio01;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 
 
-public class exe01 {
+public class exe1 {
 
     static void main(){
 
