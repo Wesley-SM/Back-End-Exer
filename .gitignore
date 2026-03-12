@@ -32,3 +32,12 @@ bin/
 
 .idea/
 *.jar
+
+*.class
+bin/
+.settings/
+.classpath
+.project
+.vscode/
+.idea/
+*.jar
